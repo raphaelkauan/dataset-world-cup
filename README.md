@@ -17,3 +17,5 @@ O dataset da Copa do Mundo abrange as seguintes informações:
 5. **Dados de Classificação Final:** Dados sobre as equipes que alcançaram as melhores colocações em cada edição, bem como os países anfitriões.
 
 6. **Informações de Edições Específicas:** Dados específicos sobre cada edição da Copa do Mundo, incluindo informações históricas e estatísticas gerais.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
