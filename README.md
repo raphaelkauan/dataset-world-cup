@@ -1,4 +1,4 @@
-# Dataset-World-Cup ⚽
+# Dataset World Cup ⚽
 
 Este repositório tem como objetivo fornecer um amplo conjunto de dados da Copa do Mundo, abrangendo o período de 1930 a 2022. Este dataset é uma valiosa fonte de informações para entusiastas do futebol, pesquisadores, analistas de dados e qualquer pessoa interessada em explorar os dados históricos do torneio mais prestigiado do esporte mundial.
 
